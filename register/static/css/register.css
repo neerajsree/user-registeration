@@ -1,0 +1,28 @@
+h2 {
+    
+   margin-left: 550px;
+}
+
+form {
+    background: burlywood;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 450px;
+}
+
+input {   
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    background: blue;
+    color: white;
+    
+    
+}

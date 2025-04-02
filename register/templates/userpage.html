@@ -5,9 +5,10 @@
     <link rel="stylesheet" href="{% static 'css/userpage.css' %}">
 </head>
 <body>
-    <div class="box">
+    <div class="box1">
         <h1>Hello, {{ username }}!</h1>
-        <a href="{% url 'logout' %}">Logout</a>
+        <a href="/logout/" class="box2">logout</a>
+        
     </div>
 </body>
 </html>
